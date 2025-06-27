@@ -6,15 +6,16 @@ Built using React, Node.js, Express, and MongoDB, ShopSmart is optimized for spe
 
 🧰 Tech Stack
 
-Technology	Purpose
-React	Frontend UI
-Tailwind CSS	Responsive styling
-Express.js	Backend API
-Node.js	Server-side JavaScript runtime
-MongoDB	NoSQL database
-Mongoose	MongoDB object modeling
-Axios	HTTP client for API requests
-Vite	React build tool (for fast dev)
+Technology  ----- Purpose
+React	      ----- Frontend UI
+Tailwind CSS-----	Responsive styling
+Express.js  -----	Backend API
+Node.js	    ----- Server-side JavaScript runtime
+MongoDB	    ----- NoSQL database
+Mongoose	  ----- MongoDB object modeling
+Axios	      ----- HTTP client for API requests
+Vite	      ----- React build tool (for fast dev)
+
 📁 Folder Structure grocery-aisle-digital-hub-main/ │ ├── client/ # Frontend (React) │ ├── src/ │ │ ├── components/ # Shared components (Header, Footer, UI) │ │ ├── contexts/ # Cart context │ │ ├── pages/ # Pages (AllProductsPage, Cart, etc.) │ │ ├── data/ # Dummy item utils (fallback) │ │ └── main.tsx # Entry point │ ├── backend/ # Backend (Node.js + Express) │ ├── models/ # Mongoose models │ ├── routes/ # API routes │ ├── scripts/ # DB seeding script │ ├── data/ # seedProducts.json │ └── server.js # Main server file
 
 ✅ Features 🛍️ For Users Browse 25–30 grocery items by category
