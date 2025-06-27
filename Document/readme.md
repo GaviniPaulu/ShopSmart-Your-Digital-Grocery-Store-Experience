@@ -44,7 +44,7 @@ Modular code structure
 
 Clone the repository
 git clone https://github.com/yourusername/shopsmart.git cd grocery-aisle-digital-hub-main ⚙️ Backend Setup cd backend npm install Seed Products: node scripts/seed.js Start Server: node server.js Backend API will run at: http://localhost:5000/api/products
-💻 Frontend Setup cd client npm install npm run dev App will run at: http://localhost:5173
+💻 Frontend Setup cd client npm install npm run dev App will run 
 
 📝 Future Improvements User authentication (JWT)
 
