@@ -54,4 +54,4 @@ Payment gateway integration
 
 Product reviews and ratings
 
-Order history and tracking
+Order history and tracking 
